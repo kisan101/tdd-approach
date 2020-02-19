@@ -1,3 +1,3 @@
 # Test Driven Development Notes
 
-![Test-Driven Development](tddSteps.png)
+![Test-Driven Development](tddSteps.jpg)
