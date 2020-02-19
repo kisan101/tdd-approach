@@ -6,6 +6,6 @@ TDD = TFD + Refactoring
 
 
 ## How Acceptance tdd and Developer TDD WORK together
-![tdd and attd](attd.jpg)
+![tdd and attd](atdd.jpg)
 
 
